@@ -69,6 +69,18 @@ Some technologies I've explored through side projects, experiments, university w
 
 ---
 
+## 🎓 Certifications
+
+I've completed several training programs and certifications in **Python, WordPress, IoT, Web Design, SEO, and Digital Marketing**.
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/artin-moeinpour/details/certifications/">
+    <img src="https://img.shields.io/badge/View%20My%20Certifications%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</p>
+
+---
+
 ## 📌 Featured Projects
 
 ### 🔹 Web Projects
